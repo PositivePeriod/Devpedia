@@ -1,8 +1,12 @@
-# Trend
-Get in touch with new innovations
+# Book
 
-[Github Trend](https://github.com/trending?since=monthly)  
-[Google Research](https://research.google/)
+Name | Author
+--- | ---
+Clean code : a handbook of agile software craftsmanship | Robert C. Martin
+Soft Skills: The Software Developer's Life Manual | John Sonmez
+The Complete Software Developer's Career Guide | John Sonmez
+
+# Video
 
 # Developer
 - Kim Jongmin Interactive development
@@ -17,6 +21,3 @@ Get in touch with new innovations
 
 - Zerocho | Web development
     - [Blog](https://www.zerocho.com/)
-    
-
-

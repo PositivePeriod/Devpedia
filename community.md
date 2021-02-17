@@ -1,12 +1,18 @@
 # Community
 
-# Developer commnuity
+[XETOWN](https://xetown.com/)  
+[Programmers](https://programmers.co.kr/)  
+[Wishket](https://www.wishket.com/)
 
-- https://xetown.com/
+# Portfolio
+https://studio-index.co/  
+Design Studio site Collection
 
-# Hire
+[Notefolio](https://notefolio.net/)  
+Korea design portfolio
 
+# Trend
+Get in touch with new innovations
 
-프로그래머스 | https://programmers.co.kr/ 
-
-아웃소싱, 위시켓 | https://www.wishket.com/?referer_type=23140711 
+[Github Trend](https://github.com/trending?since=monthly)  
+[Google Research](https://research.google/)

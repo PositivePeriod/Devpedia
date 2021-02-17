@@ -1,25 +1,31 @@
 # Python
+## English Reference
 
-Jump to Python
+Name | Author
+--- | ---
+[A byte of python](https://python.swaroopch.com/) | Swaroop C H
 
-http://byteofpython-korean.sourceforge.net/byte_of_python.html
+---
 
-PyGame
+## Korean Reference
+Name | Author
+--- | ---
+[Jump to Python](https://wikidocs.net/book/1) | 박응용
+[A byte of python Korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html) | Swaroop C H
 
-Django
+## Package
+PIP : Package Installer for Python
 
-Flask
-
-numpy
-
-TensorFlow
-
-PyTorch
+Game : PyGame  
+Backend : Django | Flask  
+Math, Science, Data : Numpy | Pandas | Matplotlib | SciPy  
+Image : OpenCV  
+Machine Learning : TensorFlow | PyTorch
 
 
 # Web
 
-### HTML
+## HTML
 
 ### PUG (JADE)
 
@@ -27,7 +33,9 @@ PyTorch
 
 ---
 
-### Javascript
+## Javascript
+
+npm : Node Package Manager
 
 NodeJS
 
@@ -39,7 +47,7 @@ SocketIO
 
 ---
 
-### CSS
+## CSS
 
 Transform
 
