@@ -9,15 +9,16 @@ The Complete Software Developer's Career Guide | John Sonmez
 # Video
 
 # Developer
-- Kim Jongmin Interactive development
-    - [Blog](https://blog.cmiscm.com/)
-    - [Youtube](https://www.youtube.com/c/cmiscm)
 
-- Sam Hogan | Game development
-    - [Youtube](https://www.youtube.com/c/SamHogan)
+Name | Content | Page | Youtube | Others
+--- | --- | --- | --- | ---
+Kim Jongmin | Interactive development | [Blog](https://blog.cmiscm.com/) | [Youtube](https://www.youtube.com/c/cmiscm) |
+Sam Hogan | Game development | | [Youtube](https://www.youtube.com/c/SamHogan) |
+Nomad Coder | Comprehensive creator | | | [Youtube](https://www.youtube.com/c/노마드코더NomadCoders) | 
+ZeroCho | Web development | [Blog](https://www.zerocho.com/) | [Youtube](https://www.youtube.com/c/ZeroChoTV) |
 
-- Nomad Coder | Comprehensive creator
-    - [Youtube](https://www.youtube.com/c/노마드코더NomadCoders)
+# Game
 
-- Zerocho | Web development
-    - [Blog](https://www.zerocho.com/)
+Name | Content | Page | Youtube | Others
+--- | --- | --- | --- | ---
+Game Maker's Toolkit | Game Analysis + Game Jam | | [Youtube](https://www.youtube.com/c/MarkBrownGMT) |
