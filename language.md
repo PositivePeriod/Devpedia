@@ -16,7 +16,7 @@ Name | Author
 ## Package
 PIP : Package Installer for Python
 
-Game : PyGame  
+Game : PyGame, Ursina
 Backend : Django | Flask  
 Math, Science, Data : Numpy | Pandas | Matplotlib | SciPy  
 Image : OpenCV  
