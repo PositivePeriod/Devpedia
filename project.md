@@ -28,3 +28,10 @@ Great template for web game based on NodeJS and SocketIO
 ## Side project by Nomad Coders
 Site for sharing side projects  
 [Side Project](https://sideprojects.pory.app/)
+
+---
+
+## Do not touch
+Join the interactive music video
+[Demo](http://donottouch.org/)  
+[Youtube](https://www.youtube.com/watch?v=W3ZjY8YD_NY&ab_channel=Moniker)
