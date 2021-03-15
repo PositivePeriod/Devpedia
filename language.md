@@ -26,6 +26,7 @@ Machine Learning : TensorFlow | PyTorch
 # Web
 
 ## HTML
+[MDN Web Docs HTML](https://developer.mozilla.org/docs/Web/HTML)
 
 ### PUG (JADE)
 
@@ -33,8 +34,8 @@ Machine Learning : TensorFlow | PyTorch
 
 ---
 
-## Javascript
-
+## JavaScript
+[MDN Web Docs JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)
 npm : Node Package Manager
 
 NodeJS
@@ -48,6 +49,7 @@ SocketIO
 ---
 
 ## CSS
+[MDN Web Docs CSS](https://developer.mozilla.org/docs/Web/CSS)
 
 Transform
 
@@ -58,6 +60,10 @@ Selector
 ### SASS
 
 # C / C# / C++
+
+# Julia
+
+https://rk1993.tistory.com/entry/PYTHON보다-줄리아
 
 # Block-based language
 - [Scratch](https://scratch.mit.edu/)
