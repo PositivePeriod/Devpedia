@@ -66,3 +66,10 @@ https://shapecatcher.com/
 
 ## Sketch to HTML
 [Sketch2code](https://sketch2code.azurewebsites.net/)
+
+---
+
+## Algorithm Visualization
+
+[University of San Francisco](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+Very useful site for studying algorithms
